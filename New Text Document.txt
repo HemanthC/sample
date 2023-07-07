@@ -1,0 +1,3 @@
+vi filename
+to edit-> i
+to save :wq!
